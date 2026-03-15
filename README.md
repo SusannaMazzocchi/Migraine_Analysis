@@ -51,7 +51,7 @@ I learned how to handle messy medical data, understood the mathematical concept 
 Launch Jupyter to view the whole project (or GooggleColab):
 
    ```bash
-   jupyter notebook mMigraine_Analysis.ipynb
+   jupyter notebook Migraine_Analysis.ipynb
 ---------
 
 Read the attached Medical application.pdf file to get all the context on the patients and discover the detailed conclusions drawn.
